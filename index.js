@@ -70,6 +70,32 @@ after 28 days.`,
             "side_effects": ["Headache", "Dizziness"],
             "Help_if": ["Experiencing itching skin,wheezing, and fast heart rate."],
         },
+        {
+            "Name": "IBUPROFEN",
+            "Composition": ["IBUPROFEN"],
+            "dose": "600 MG",
+            "Type": "tab",
+            "img": "url",
+            "dosage": "4",
+            "frequency": "4",
+            "timings": [{
+                    "8:00 AM": ["1", "After"]
+                },
+                {
+                    "12:00 PM": ["1", "After"]
+                },
+                {
+                    "04:00 PM": ["1", "After"]
+                },
+                {
+                    "08:00 PM": ["1", "After"]
+                }
+            ],
+            "Reason": "For treatment of lower back pain",
+            "Directions": `1 Tablet by mouth, 4 Times a day with food every 4 hours`,
+            "side_effects": ["Headache", "Dizziness"],
+            "Help_if": ["Experiencing chest pain", "Shortness of breath", "rapid weight gain"],
+        }
     ]
 };
 
